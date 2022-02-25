@@ -10,5 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     //fiz alguma coisa
-    //funcionalidade
+    //funded
 }
